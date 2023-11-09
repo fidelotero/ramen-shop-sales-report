@@ -1,0 +1,327 @@
+Row Type,Parent Product Class,Class,Name,Product Category,Product Subcategory,Qty,Weight,Total Sales,COGS
+Product,Unknown Class,Alcohol,Akashi Eigashima,Drinks,Japanese Whisky,4.00,,44.00,0.00
+Product,Unknown Class,Alcohol,Akashi Single Malt,Drinks,Japanese Whisky,1.00,,22.00,0.00
+Product,Unknown Class,Alcohol,Akashi Ume,Drinks,Japanese Whisky,9.00,,81.00,0.00
+Product,Unknown Class,Alcohol,CUSTOM Flight,Drinks,Flights,0.00,,0.00,0.00
+Product,Unknown Class,Alcohol,Chenin Blanc BTG,Drinks,Wine,10.00,,110.00,0.00
+Product,Unknown Class,Alcohol,Chenin Blanc Bottle,Drinks,Wine,0.00,,0.00,0.00
+Product,Unknown Class,Alcohol,Cherry Limeade,Drinks,Cocktails,7.00,,56.00,0.00
+Product,Unknown Class,Alcohol,Coconut Mojito,Drinks,Cocktails,23.00,,175.00,0.00
+Product,Unknown Class,Alcohol,Coors,Special,BACK TO SCHOOL,270.00,,270.00,0.00
+Product,Unknown Class,Alcohol,Coors Light,Drinks,Beer,25.00,,75.00,0.00
+Product,Unknown Class,Alcohol,Cup - Daruma,Drinks,Sake,16.00,,192.00,0.00
+Product,Unknown Class,Alcohol,Cup - Kirinzan,Drinks,Sake,7.00,,84.00,0.00
+Product,Unknown Class,Alcohol,Cup - Old Mountain,Drinks,Sake,16.00,,192.00,0.00
+Product,Unknown Class,Alcohol,Cup - Pure Grain,Drinks,Sake,46.00,,552.00,0.00
+Product,Unknown Class,Alcohol,"Cup Sake (""Otokoyama"")",Drinks,Sake,16.00,,192.00,0.00
+Product,Unknown Class,Alcohol,Demon Slayer (300ml),Drinks,Sake,7.00,,350.00,0.00
+Product,Unknown Class,Alcohol,Dewazakura (Sparkling) BTG,Drinks,Sake,12.00,,131.00,0.00
+Product,Unknown Class,Alcohol,Dewazakura Sparkling,Drinks,Sake,5.00,,160.00,0.00
+Product,Unknown Class,Alcohol,Drink of the Day,Special,Drinks,15.00,,150.00,0.00
+Product,Unknown Class,Alcohol,Echigo Sekkobai (300ml),Drinks,Sake,4.00,,148.00,0.00
+Product,Unknown Class,Alcohol,Echigo Sekkobai (720ml),Drinks,Sake,1.00,,75.00,0.00
+Product,Unknown Class,Alcohol,Echigo Sekkobai BTG,Drinks,Sake,19.00,,190.00,0.00
+Product,Unknown Class,Alcohol,Electric Jellyfish,Drinks,Beer,1.00,,7.00,0.00
+Product,Unknown Class,Alcohol,Electric Jellyfish,Drinks,Beer,68.00,,612.00,0.00
+Product,Unknown Class,Alcohol,Favorites Flight,Drinks,Flights,2.00,,82.00,0.00
+Product,Unknown Class,Alcohol,Fernet Branca,Drinks,Open Liquor,3.00,,15.00,0.00
+Product,Unknown Class,Alcohol,Finca Costanillas BTG,Drinks,Wine,38.00,,424.00,0.00
+Product,Unknown Class,Alcohol,Finca Costanillas BTL,Drinks,Wine,0.00,,0.00,0.00
+Product,Unknown Class,Alcohol,Haku Kandy,Special,Drinks,49.00,,490.00,0.00
+Product,Unknown Class,Alcohol,Haku Vodka,Drinks,Open Liquor,2.00,,5.00,0.00
+Product,Unknown Class,Alcohol,Hitachino (Dai Dai),Drinks,Beer,21.00,,157.50,0.00
+Product,Unknown Class,Alcohol,Hitachino (White Ale),Drinks,Beer,131.00,,932.00,0.00
+Product,Unknown Class,Alcohol,Hitachino (Yuzu Lager),Drinks,Beer,72.00,,536.00,0.00
+Product,Unknown Class,Alcohol,Jell-O Shot,Drinks,Cocktails,2.00,,4.00,0.00
+Product,Unknown Class,Alcohol,Jungle Juice,Special,BACK TO SCHOOL,56.00,,116.00,0.00
+Product,Unknown Class,Alcohol,Kappa Kyuri,Drinks,Cocktails,11.00,,88.00,0.00
+Product,Unknown Class,Alcohol,Kirin,Drinks,Beer,269.00,,1608.00,0.00
+Product,Unknown Class,Alcohol,Kirin Bottle,Drinks,Beer,2.00,,12.00,0.00
+Product,Unknown Class,Alcohol,Lemon Drop Shot,Drinks,Cocktails,4.00,,8.00,0.00
+Product,Unknown Class,Alcohol,Lone Star,Online Drinks,Beer,6.00,,18.00,0.00
+Product,Unknown Class,Alcohol,Lone Star,Special,BACK TO SCHOOL,384.00,,384.00,0.00
+Product,Unknown Class,Alcohol,Lone Star,Drinks,Beer,50.00,,150.00,0.00
+Product,Unknown Class,Alcohol,Long Meadow Ranch BTG,Drinks,Wine,48.00,,466.00,0.00
+Product,Unknown Class,Alcohol,Long Meadow Ranch BTL,Drinks,Wine,24.00,,120.00,0.00
+Product,Unknown Class,Alcohol,Margarita,Drinks,Cocktails,43.00,,135.00,0.00
+Product,Unknown Class,Alcohol,Mars Iwai,Drinks,Japanese Whisky,3.00,,26.00,0.00
+Product,Unknown Class,Alcohol,Mars Iwai 45,Drinks,Japanese Whisky,2.00,,19.00,0.00
+Product,Unknown Class,Alcohol,Mars Iwai Traditions,Drinks,Japanese Whisky,3.00,,42.00,0.00
+Product,Unknown Class,Alcohol,Masumi BTG,Drinks,Sake,3.00,,24.00,0.00
+Product,Unknown Class,Alcohol,Masumi BTL,Drinks,Sake,2.00,,116.00,0.00
+Product,Unknown Class,Alcohol,Mezcal Margarita,Drinks,Cocktails,5.00,,40.00,0.00
+Product,Unknown Class,Alcohol,Mojito,Drinks,Cocktails,6.00,,42.00,0.00
+Product,Unknown Class,Alcohol,Naeba San (300ml),Drinks,Sake,2.00,,50.00,0.00
+Product,Unknown Class,Alcohol,Naeba San (720ml),Drinks,Sake,3.00,,138.00,0.00
+Product,Unknown Class,Alcohol,Naeba San BTG,Drinks,Sake,3.00,,21.00,0.00
+Product,Unknown Class,Alcohol,Nigori Takara,Drinks,Sake,1.00,,15.00,0.00
+Product,Unknown Class,Alcohol,Nikka Barrel,Drinks,Japanese Whisky,1.00,,17.00,0.00
+Product,Unknown Class,Alcohol,Nikka Coffey Grain,Drinks,Japanese Whisky,5.00,,75.00,0.00
+Product,Unknown Class,Alcohol,Nikka Coffey Malt,Drinks,Japanese Whisky,9.00,,162.00,0.00
+Product,Unknown Class,Alcohol,Nikka Days,Drinks,Japanese Whisky,7.00,,79.00,0.00
+Product,Unknown Class,Alcohol,Nikka From the Barrel,Drinks,Japanese Whisky,14.00,,240.00,0.00
+Product,Unknown Class,Alcohol,Nikka Miyagikyo,Drinks,Japanese Whisky,2.00,,40.00,0.00
+Product,Unknown Class,Alcohol,Old-Fashioned +,Drinks,Cocktails,6.00,,30.00,0.00
+Product,Unknown Class,Alcohol,Orange Blossom,Drinks,Cocktails,6.00,,48.00,0.00
+Product,Unknown Class,Alcohol,Pinku Drinku,Drinks,Cocktails,19.00,,152.00,0.00
+Product,Unknown Class,Alcohol,Roku Gin,Drinks,Open Liquor,1.00,,5.00,0.00
+Product,Unknown Class,Alcohol,Roku Mango Fizz,Drinks,Cocktails,2.00,,25.00,0.00
+Product,Unknown Class,Alcohol,Rum & Cola,Drinks,Cocktails,2.00,,16.00,0.00
+Product,Unknown Class,Alcohol,Sake Bomb,Drinks,Cocktails,103.00,,309.00,0.00
+Product,Unknown Class,Alcohol,Sake Bomb,Special,BACK TO SCHOOL,935.00,,1870.00,0.00
+Product,Unknown Class,Alcohol,Sake Flight,Drinks,Flights,4.00,,100.00,0.00
+Product,Unknown Class,Alcohol,Sake Pairing,Special,Omakase,13.00,,325.00,0.00
+Product,Unknown Class,Alcohol,Sapporo,Drinks,Beer,429.00,,2568.00,0.00
+Product,Unknown Class,Alcohol,Smoked Old-Fashioned,Drinks,Cocktails,211.00,,2321.00,0.00
+Product,Unknown Class,Alcohol,Smooth Operator,Drinks,Cocktails,257.00,,3008.00,0.00
+Product,Unknown Class,Alcohol,Smooth Operator Special,Special,Drinks,60.00,,314.00,0.00
+Product,Unknown Class,Alcohol,Snow Maiden (300ml),Drinks,Sake,28.00,,592.00,0.00
+Product,Unknown Class,Alcohol,Snow Maiden (720ml),Drinks,Sake,5.00,,200.00,0.00
+Product,Unknown Class,Alcohol,Snow Maiden (720ml),Online Drinks,Sake,1.00,,41.00,0.00
+Product,Unknown Class,Alcohol,Soto Vino BTG,Drinks,Wine,11.00,,96.00,0.00
+Product,Unknown Class,Alcohol,Soto Vino BTL,Drinks,Wine,0.00,,0.00,0.00
+Product,Unknown Class,Alcohol,Soup De Sol,Drinks,Cocktails,17.00,,170.00,0.00
+Product,Unknown Class,Alcohol,Soup de Sol,Drinks,Cocktails,17.00,,170.00,0.00
+Product,Unknown Class,Alcohol,Suntory AO World,Drinks,Japanese Whisky,6.00,,72.00,0.00
+Product,Unknown Class,Alcohol,Suntory Hibiki Harmony,Drinks,Japanese Whisky,3.00,,77.00,0.00
+Product,Unknown Class,Alcohol,Suntory Toki,Drinks,Japanese Whisky,7.00,,63.00,0.00
+Product,Unknown Class,Alcohol,Suntory Yamazaki 12YR,Drinks,Japanese Whisky,6.00,,174.00,0.00
+Product,Unknown Class,Alcohol,Suntory Yamazaki 12YR Anniversary,Drinks,Japanese Whisky,2.00,,214.00,0.00
+Product,Unknown Class,Alcohol,Takara SCB,Drinks,Sake,47.00,,705.00,0.00
+Product,Unknown Class,Alcohol,Teitessa 15YR,Drinks,Japanese Whisky,4.00,,144.00,0.00
+Product,Unknown Class,Alcohol,Teitessa 25YR,Drinks,Japanese Whisky,3.00,,175.00,0.00
+Product,Unknown Class,Alcohol,Teitessa 30YR,Drinks,Japanese Whisky,6.00,,500.00,0.00
+Product,Unknown Class,Alcohol,Texas Sake,Drinks,Sake,53.00,,265.00,0.00
+Product,Unknown Class,Alcohol,Toki Hi-Ball,Drinks,Cocktails,1.00,,11.00,0.00
+Product,Unknown Class,Alcohol,Toki Highball,Drinks,Cocktails,15.00,,120.00,0.00
+Product,Unknown Class,Alcohol,Tomu Collins,Drinks,Cocktails,43.00,,420.00,0.00
+Product,Unknown Class,Alcohol,Vodka Lemonada,Drinks,Cocktails,8.00,,52.00,0.00
+Product,Unknown Class,Alcohol,Vodka Soda,Drinks,Cocktails,1.00,,9.00,0.00
+Product,Unknown Class,Alcohol,Vodka Soda,Drinks,Cocktails,3.00,,24.00,0.00
+Product,Unknown Class,Alcohol,"Wakatake ""Demon Slayer"" 300ml",Drinks,Sake,1.00,,50.00,0.00
+Product,Unknown Class,Alcohol,Yuengling,Drinks,Beer,51.00,,153.00,0.00
+Product,Extra Items,Extra Items,2 dollar beers,,,1.00,,2.00,0.00
+Product,Extra Items,Extra Items,6 pc wings,,,1.00,,18.00,0.00
+Product,Extra Items,Extra Items,6 pc wingso,,,1.00,,18.00,0.00
+Product,Extra Items,Extra Items,AO,,,1.00,,12.00,0.00
+Product,Extra Items,Extra Items,Aji,,,1.00,,1.00,0.00
+Product,Extra Items,Extra Items,Dollar beer,,,1.00,,1.00,0.00
+Product,Extra Items,Extra Items,Mixed Greens,,,1.00,,5.00,0.00
+Product,Extra Items,Extra Items,Open Table,,,1.00,,759.00,0.00
+Product,Extra Items,Extra Items,SC Sake,,,1.00,,6.00,0.00
+Product,Extra Items,Extra Items,Tobiruku,,,1.00,,40.00,0.00
+Product,Extra Items,Extra Items,a,,,3.00,,18.00,0.00
+Product,Extra Items,Extra Items,aji,,,5.00,,5.00,0.00
+Product,Extra Items,Extra Items,ajitama,,,1.00,,1.00,0.00
+Product,Extra Items,Extra Items,blaze powder x2,,,1.00,,3.00,0.00
+Product,Extra Items,Extra Items,chicken skin furikake,,,2.00,,3.00,0.00
+Product,Extra Items,Extra Items,chubuto,,,2.00,,66.86,0.00
+Product,Extra Items,Extra Items,chx furi,,,2.00,,3.00,0.00
+Product,Extra Items,Extra Items,corn,,,1.00,,1.50,0.00
+Product,Extra Items,Extra Items,cucumber,,,1.00,,5.00,0.00
+Product,Extra Items,Extra Items,drink,,,1.00,,10.00,0.00
+Product,Extra Items,Extra Items,echigo,,,1.00,,32.00,0.00
+Product,Extra Items,Extra Items,edamame,,,1.00,,4.50,0.00
+Product,Extra Items,Extra Items,fernet,,,3.00,,34.00,0.00
+Product,Extra Items,Extra Items,futomen,,,4.00,,116.00,0.00
+Product,Extra Items,Extra Items,haju,,,1.00,,5.00,0.00
+Product,Extra Items,Extra Items,junk,,,1.00,,2.50,0.00
+Product,Extra Items,Extra Items,kappa,,,1.00,,5.00,0.00
+Product,Extra Items,Extra Items,kirin,,,4.00,,12.00,0.00
+Product,Extra Items,Extra Items,love,,,1.00,,0.01,0.00
+Product,Extra Items,Extra Items,mala,,,1.00,,0.50,0.00
+Product,Extra Items,Extra Items,mezcal soda,,,1.00,,10.00,0.00
+Product,Extra Items,Extra Items,mocktail,,,2.00,,8.50,0.00
+Product,Extra Items,Extra Items,omakase,,,1.00,,39.00,0.00
+Product,Extra Items,Extra Items,pink drink,,,1.00,,8.00,0.00
+Product,Extra Items,Extra Items,pork,,,1.00,,2.00,0.00
+Product,Extra Items,Extra Items,salmon shoyu,,,1.00,,18.00,0.00
+Product,Extra Items,Extra Items,sapporo,,,9.00,,27.00,0.00
+Product,Extra Items,Extra Items,siup de sol,,,1.00,,10.00,0.00
+Product,Extra Items,Extra Items,smooth,,,1.00,,5.00,0.00
+Product,Extra Items,Extra Items,snow maiden,,,1.00,,18.00,0.00
+Product,Extra Items,Extra Items,so,,,1.00,,5.00,0.00
+Product,Extra Items,Extra Items,soup de sol,,,5.00,,50.00,0.00
+Product,Extra Items,Extra Items,special,,,1.00,,14.50,0.00
+Product,Extra Items,Extra Items,spicy,,,1.00,,1.50,0.00
+Product,Extra Items,Extra Items,spicy on edamame,,,0.00,,0.00,0.00
+Product,Extra Items,Extra Items,sub flat noodle,,,1.00,,1.00,0.00
+Product,Extra Items,Extra Items,summah,,,4.00,,20.00,0.00
+Product,Extra Items,Extra Items,summah time,,,1.00,,5.00,0.00
+Product,Extra Items,Extra Items,super xtra hot,,,1.00,,0.50,0.00
+Product,Extra Items,Extra Items,test,,,2.00,,0.02,0.00
+Product,Extra Items,Extra Items,vodk soda,,,1.00,,5.00,0.00
+Product,Extra Items,Extra Items,vodka soda,,,1.00,,9.00,0.00
+Product,Unknown Class,Ramen,Classic Shoyu,Food,Ramen,1415.00,,14899.00,0.00
+Product,Unknown Class,Ramen,Classic Shoyu,Special,BACK TO SCHOOL,499.00,,5232.50,0.00
+Product,Unknown Class,Ramen,Classic Shoyu,Online Food,Ramen,72.00,,842.00,0.00
+Product,Unknown Class,Ramen,Jiro,Online Food,Ramen,70.00,,1176.50,0.00
+Product,Unknown Class,Ramen,Jiro,Food,Ramen,2078.00,,32444.00,0.00
+Product,Unknown Class,Ramen,Salmon Shoyu,Special,Food,3.00,,54.00,0.00
+Product,Unknown Class,Ramen,Shoyu,Food,Ramen,2921.00,,48239.00,0.00
+Product,Unknown Class,Ramen,Shoyu,Online Food,Ramen,163.00,,2686.00,0.00
+Product,Unknown Class,Ramen,Shoyu Jr,Food,Ramen,206.00,,1697.00,0.00
+Product,Unknown Class,Ramen,Shoyu Jr,Online Food,Ramen,21.00,,187.00,0.00
+Product,Unknown Class,Ramen,Spicy,Food,Ramen,2683.00,,43697.50,0.00
+Product,Unknown Class,Ramen,Spicy,Online Food,Ramen,114.00,,1833.00,0.00
+Product,Unknown Class,Ramen,Spicy Shoyu Killa,Food,Specials,55.00,,797.50,0.00
+Product,Unknown Class,Unknown Class,1/2 Kaedama - Classic Noodz,Extras,Kae-dama!,11.00,,22.00,0.00
+Product,Unknown Class,Unknown Class,1/2 Kaedama - Flat Noodz,Extras,Kae-dama!,6.00,,12.00,0.00
+Product,Unknown Class,Unknown Class,1/2 Kaedama - Reg,Sazan @ Daiboku,Kae-dama!,3.00,,6.00,0.00
+Product,Unknown Class,Unknown Class,1/2 Kaedama - Thin Noodz,Extras,Kae-dama!,20.00,,40.00,0.00
+Product,Unknown Class,Unknown Class,10 Indomitable Chicken Wing ICW,Appetizers,Appetizer,0.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,3 Wings,Food,Starters,381.00,,3810.00,0.00
+Product,Unknown Class,Unknown Class,3 pc Wings,Food,Starters (Happy Hr),243.00,,2430.00,0.00
+Product,Unknown Class,Unknown Class,6 Wings,Food,Starters,220.00,,3960.00,0.00
+Product,Unknown Class,Unknown Class,Abura Pork,Food,Starters (Happy Hr),69.00,,276.00,0.00
+Product,Unknown Class,Unknown Class,Achilles,Event,Yakitori,3.00,,15.00,0.00
+Product,Unknown Class,Unknown Class,Aji,Extras,Add-ons,60.00,,60.00,0.00
+Product,Unknown Class,Unknown Class,BS & C Mix,Extras,Add-ons,9.00,,9.00,0.00
+Product,Unknown Class,Unknown Class,Beni Shoga,Extras,Add-ons,8.00,,8.00,0.00
+Product,Unknown Class,Unknown Class,Blaze Powder,Extras,Add-ons,3.00,,3.00,0.00
+Product,Unknown Class,Unknown Class,Bomb & La-yu OTS,Extras,Add-ons,20.00,,40.00,0.00
+Product,Unknown Class,Unknown Class,Bomb OTS,Extras,Add-ons,138.00,,207.00,0.00
+Product,Unknown Class,Unknown Class,Bottled Water,Drinks,N/A,3.00,,3.00,0.00
+Product,Unknown Class,Unknown Class,Bread Pudding,Event,Bites,3.00,,15.00,0.00
+Product,Unknown Class,Unknown Class,Breast,Event,Yakitori,23.00,,69.00,0.00
+Product,Unknown Class,Unknown Class,Butter,Extras,Add-ons,2.00,,1.00,0.00
+Product,Unknown Class,Unknown Class,Cabbage & Red Onion Mix,Extras,Add-ons,1.00,,1.50,0.00
+Product,Unknown Class,Unknown Class,Chicken Shoyu,Ramen,Family,12.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Classic Shoyu,Food,Ramen,3.00,,41.50,0.00
+Product,Unknown Class,Unknown Class,Coconut Mojito,Special,Drinks,18.00,,90.00,0.00
+Product,Unknown Class,Unknown Class,Coke,Food,Drinks,5.00,,3.00,0.00
+Product,Unknown Class,Unknown Class,Coke,Drinks,N/A,375.00,,1037.00,0.00
+Product,Unknown Class,Unknown Class,Coke,Online Drinks,N/A,10.00,,20.00,0.00
+Product,Unknown Class,Unknown Class,Corn,Extras,Add-ons,18.00,,18.00,0.00
+Product,Unknown Class,Unknown Class,D's Way,Sazan @ Daiboku,Xtra Toppings,5.00,,15.00,0.00
+Product,Unknown Class,Unknown Class,DR Pepper,Drinks,N/A,1.00,,2.50,0.00
+Product,Unknown Class,Unknown Class,Daiboku Family,Ramen,Family Drinks,3.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Diet Coke,Online Drinks,N/A,12.00,,24.00,0.00
+Product,Unknown Class,Unknown Class,Diet Coke,Drinks,N/A,2.00,,5.00,0.00
+Product,Unknown Class,Unknown Class,Diet Coke,Drinks,N/A,205.00,,565.00,0.00
+Product,Unknown Class,Unknown Class,Diet Coke,Food,Drinks,3.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Dr Pepper,Drinks,N/A,219.00,,609.00,0.00
+Product,Unknown Class,Unknown Class,Dr Pepper,Online Drinks,N/A,3.00,,6.00,0.00
+Product,Unknown Class,Unknown Class,Dr Pepper,Food,Drinks,1.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Edamame,Food,Starters (Happy Hr),219.00,,891.50,0.00
+Product,Unknown Class,Unknown Class,Edamame,Food,Starters (Happy Hr),4.00,,18.00,0.00
+Product,Unknown Class,Unknown Class,Edamame,Food,Starters,399.00,,1941.50,0.00
+Product,Unknown Class,Unknown Class,Edamame,Online Food,Starters,49.00,,233.50,0.00
+Product,Unknown Class,Unknown Class,Extra Chicken,Extras,Xtra Chashu,8.00,,24.00,0.00
+Product,Unknown Class,Unknown Class,Extra Pork - Thick,Extras,Xtra Chashu,7.00,,21.00,0.00
+Product,Unknown Class,Unknown Class,Extra Pork - Thin,Extras,Xtra Chashu,11.00,,33.00,0.00
+Product,Unknown Class,Unknown Class,Extra Seared King Trumpets,Extras,Xtra Chashu,6.00,,15.00,0.00
+Product,Unknown Class,Unknown Class,Ezra Don,Special,Food,4.00,,26.00,0.00
+Product,Unknown Class,Unknown Class,For The Love Of Ramen,Food,Tips,26.00,,0.26,0.00
+Product,Unknown Class,Unknown Class,For The Love Of Ramen,Special,Tip,70.00,,0.70,0.00
+Product,Unknown Class,Unknown Class,Fresh Garlic,Extras,Add-ons,10.00,,15.00,0.00
+Product,Unknown Class,Unknown Class,Fries,Sazan @ Daiboku,Starters,32.00,,224.00,0.00
+Product,Unknown Class,Unknown Class,Fries,Food,Starters (Happy Hr),1.00,,7.00,0.00
+Product,Unknown Class,Unknown Class,Full Kaedama - Classic Noodz,Extras,Kae-dama!,17.00,,51.00,0.00
+Product,Unknown Class,Unknown Class,Full Kaedama - Flat Noodz,Extras,Kae-dama!,3.00,,9.00,0.00
+Product,Unknown Class,Unknown Class,Full Kaedama - Reg,Sazan @ Daiboku,Kae-dama!,2.00,,6.00,0.00
+Product,Unknown Class,Unknown Class,Full Kaedama - Thin Noodz,Extras,Kae-dama!,13.00,,39.00,0.00
+Product,Unknown Class,Unknown Class,Habanero (6pc),Extras,Add-ons,1.00,,1.00,0.00
+Product,Unknown Class,Unknown Class,Heather's Special,Special,Drinks,0.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Hop Sparkling Water,Drinks,N/A,1.00,,6.00,0.00
+Product,Unknown Class,Unknown Class,House Sourdough,Event,Bites,7.00,,42.00,0.00
+Product,Unknown Class,Unknown Class,Inner Thigh,Event,Yakitori,4.00,,20.00,0.00
+Product,Unknown Class,Unknown Class,Ito En Green Tea,Online Drinks,N/A,5.00,,17.50,0.00
+Product,Unknown Class,Unknown Class,Ito En Green Tea,Drinks,N/A,108.00,,378.00,0.00
+Product,Unknown Class,Unknown Class,Ito En Jasmine,Drinks,N/A,1.00,,3.50,0.00
+Product,Unknown Class,Unknown Class,Ito En Jasmine Tea,Drinks,N/A,160.00,,560.00,0.00
+Product,Unknown Class,Unknown Class,Ito En Jasmine Tea,Online Drinks,N/A,5.00,,17.50,0.00
+Product,Unknown Class,Unknown Class,Ivan's Shio,Special,Drinks,58.00,,1044.00,0.00
+Product,Unknown Class,Unknown Class,Kaedama (Full Portion),Extras,Add-ons,2.00,,6.00,0.00
+Product,Unknown Class,Unknown Class,Karaage,Food,Ramen,12.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Karaage,Food,Starters (Happy Hr),5.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Katsu Sando,Event,Bites,19.00,,152.00,0.00
+Product,Unknown Class,Unknown Class,Killa,Food,Specials,22.00,,257.50,0.00
+Product,Unknown Class,Unknown Class,Kirin,Ramen,Family Drinks,3.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Kosho,Extras,Add-ons,1.00,,1.50,0.00
+Product,Unknown Class,Unknown Class,LOVE,Specials,Tip,2.00,,0.02,0.00
+Product,Unknown Class,Unknown Class,La-yu,Extras,Add-ons,17.00,,17.00,0.00
+Product,Unknown Class,Unknown Class,Lemon Drop Shot,Drinks,Specials,2.00,,4.00,0.00
+Product,Unknown Class,Unknown Class,Lemon and Corn Granita,Special,Drinks,1.00,,3.50,0.00
+Product,Unknown Class,Unknown Class,Lolacita,Event,Drinks,27.00,,270.00,0.00
+Product,Unknown Class,Unknown Class,MOCKTAIL,Drinks,N/A,1.00,,5.00,0.00
+Product,Unknown Class,Unknown Class,Ma-yu,Sazan @ Daiboku,Ramen,142.00,,2240.00,0.00
+Product,Unknown Class,Unknown Class,Matcha Dessertini,Event,Drinks,10.00,,140.00,0.00
+Product,Unknown Class,Unknown Class,Mazeman,Event,Bites,21.00,,126.00,0.00
+Product,Unknown Class,Unknown Class,Meatball,Event,Yakitori,11.00,,33.00,0.00
+Product,Unknown Class,Unknown Class,Mixed Greens,Event,Bites,4.00,,20.00,0.00
+Product,Unknown Class,Unknown Class,Mixed Greens,Food,Specials,5.00,,25.00,0.00
+Product,Unknown Class,Unknown Class,Mixed Greens,Food,Starters (Happy Hr),3.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Mixed Greens,Food,Ramen,5.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Mixed Greens,Ramen,Family,5.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Mojito,Special,Drinks,29.00,,145.00,0.00
+Product,Unknown Class,Unknown Class,Mushroom Duxelle,Extras,Add-ons,3.00,,4.50,0.00
+Product,Unknown Class,Unknown Class,Naruto,Extras,Add-ons,2.00,,1.00,0.00
+Product,Unknown Class,Unknown Class,Neon HIghball,Event,Drinks,18.00,,216.00,0.00
+Product,Unknown Class,Unknown Class,Nori,Extras,Add-ons,7.00,,3.50,0.00
+Product,Unknown Class,Unknown Class,Oysters,Event,Yakitori,1.00,,7.00,0.00
+Product,Unknown Class,Unknown Class,Paitan,Sazan @ Daiboku,Ramen,110.00,,1591.50,0.00
+Product,Unknown Class,Unknown Class,Penicillin,Event,Drinks,23.00,,299.00,0.00
+Product,Unknown Class,Unknown Class,Pickles,Online Food,Starters,41.00,,123.00,0.00
+Product,Unknown Class,Unknown Class,Pickles,Event,Bites,2.00,,6.00,0.00
+Product,Unknown Class,Unknown Class,Pickles,Food,Starters (Happy Hr),379.00,,1014.00,0.00
+Product,Unknown Class,Unknown Class,Pickles,Food,Starters,423.00,,1269.00,0.00
+Product,Unknown Class,Unknown Class,Rambler,Online Drinks,N/A,1.00,,2.00,0.00
+Product,Unknown Class,Unknown Class,Rambler,Drinks,N/A,88.00,,221.00,0.00
+Product,Unknown Class,Unknown Class,Ramune,Online Drinks,N/A,1.00,,3.50,0.00
+Product,Unknown Class,Unknown Class,Ramune,Drinks,N/A,4.00,,14.00,0.00
+Product,Unknown Class,Unknown Class,Ramune,Drinks,N/A,110.00,,385.00,0.00
+Product,Unknown Class,Unknown Class,Rib Meat,Event,Yakitori,6.00,,24.00,0.00
+Product,Unknown Class,Unknown Class,Sake Spritz,Event,Drinks,6.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Saporro,Ramen,Family Drinks,1.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Scallions,Extras,Add-ons,7.00,,7.00,0.00
+Product,Unknown Class,Unknown Class,Shio,Special,Drinks,14.00,,203.00,0.00
+Product,Unknown Class,Unknown Class,Shirley Temple,Drinks,N/A,1.00,,2.00,0.00
+Product,Unknown Class,Unknown Class,Side of rice,Food,Starters (Happy Hr),96.00,,263.00,0.00
+Product,Unknown Class,Unknown Class,Side of rice,Food,Starters,227.00,,607.50,0.00
+Product,Unknown Class,Unknown Class,Side of rice,Online Food,Starters,23.00,,67.00,0.00
+Product,Unknown Class,Unknown Class,Side of rice (plain),Food,Starters (Happy Hr),34.00,,86.00,0.00
+Product,Unknown Class,Unknown Class,Smoked + Fried Pork Belly,Food,Specials,9.00,,54.00,0.00
+Product,Unknown Class,Unknown Class,Smoked Karage,Ramen,Family,12.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Soda,Ramen,Family Drinks,4.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Soup De Sol,Special,Drinks,2.00,,20.00,0.00
+Product,Unknown Class,Unknown Class,Soup's Way,Special,Food,6.00,,87.00,0.00
+Product,Unknown Class,Unknown Class,Sourdough Bread Pudding,Special,Food,5.00,,25.00,0.00
+Product,Unknown Class,Unknown Class,Spa Sipper,Event,Drinks,27.00,,324.00,0.00
+Product,Unknown Class,Unknown Class,Spicy Miso,Ramen,Family,10.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Sprite,Drinks,N/A,2.00,,5.00,0.00
+Product,Unknown Class,Unknown Class,Sprite,Online Drinks,N/A,7.00,,14.00,0.00
+Product,Unknown Class,Unknown Class,Sprite,Drinks,N/A,268.00,,754.00,0.00
+Product,Unknown Class,Unknown Class,Sprite,Food,Drinks,2.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,TO-GO,Food,Starters,135.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,TO-GO,Food,Ramen,18.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Tare Don,HAPPY HOUR,Food,1.00,,5.00,0.00
+Product,Unknown Class,Unknown Class,Tare Don,Online Food,Starters,42.00,,273.00,0.00
+Product,Unknown Class,Unknown Class,Tare Don,Food,Starters,398.00,,2587.00,0.00
+Product,Unknown Class,Unknown Class,Tare Don,Food,Starters (Happy Hr),147.00,,891.00,0.00
+Product,Unknown Class,Unknown Class,Tendies,Event,Yakitori,9.00,,36.00,0.00
+Product,Unknown Class,Unknown Class,Thigh,Event,Yakitori,9.00,,27.00,0.00
+Product,Unknown Class,Unknown Class,Tomu Collins,HAPPY HOUR,Drinks,3.00,,15.00,0.00
+Product,Unknown Class,Unknown Class,Umami-tini,Event,Drinks,3.00,,39.00,0.00
+Product,Unknown Class,Unknown Class,Walkin' Ramen (spicy ver.),Event,Bites,18.00,,108.00,0.00
+Product,Unknown Class,Unknown Class,Water Bottle,Online Drinks,N/A,1.00,,2.00,0.00
+Product,Unknown Class,Unknown Class,Water Bottle,Drinks,N/A,65.00,,130.00,0.00
+Product,Unknown Class,Unknown Class,White Ale,HAPPY HOUR,Drinks,2.00,,10.00,0.00
+Product,Unknown Class,Unknown Class,Wings,Event,Yakitori,3.00,,15.00,0.00
+Product,Unknown Class,Unknown Class,Wings (10 pc),Sazan @ Daiboku,Starters,9.00,,162.00,0.00
+Product,Unknown Class,Unknown Class,Wings (3 pc),HAPPY HOUR,Food,2.00,,10.00,0.00
+Product,Unknown Class,Unknown Class,Wings (3 pc),Online Food,Starters,40.00,,400.00,0.00
+Product,Unknown Class,Unknown Class,Wings (3 pc),Food,Starters (Happy Hr),184.00,,1840.00,0.00
+Product,Unknown Class,Unknown Class,Wings (5 pc),Sazan @ Daiboku,Starters,29.00,,290.00,0.00
+Product,Unknown Class,Unknown Class,Wings (6 pc),Food,Starters (Happy Hr),63.00,,1134.00,0.00
+Product,Unknown Class,Unknown Class,Wings (6 pc),Online Food,Starters,4.00,,72.00,0.00
+Product,Unknown Class,Unknown Class,Xtra Broth - Classic,Extras,Xtra Broth,4.00,,16.00,0.00
+Product,Unknown Class,Unknown Class,Xtra Broth - Jiro,Extras,Xtra Broth,7.00,,28.00,0.00
+Product,Unknown Class,Unknown Class,Xtra Broth - Shoyu,Extras,Xtra Broth,8.00,,32.00,0.00
+Product,Unknown Class,Unknown Class,Xtra Broth - Spicy,Extras,Xtra Broth,2.00,,8.00,0.00
+Product,Unknown Class,Unknown Class,Xtra Chicken Skin Furikake,Food,Starters (Happy Hr),1.00,,1.50,0.00
+Product,Unknown Class,Unknown Class,Xtra Chicken Skin Furikake,Extras,Rice Add-ons,2.00,,3.00,0.00
+Product,Unknown Class,Unknown Class,Xtra House Furikake,Food,Starters (Happy Hr),0.00,,0.00,0.00
+Product,Unknown Class,Unknown Class,Xtra House Furikake,Extras,Rice Add-ons,2.00,,3.00,0.00
+Product,Unknown Class,Unknown Class,Yuzu Lager,HAPPY HOUR,Drinks,1.00,,5.00,0.00
+Product,,Gift,GIft Card,Gift,Gift Card,1.00,,0.99,0.00

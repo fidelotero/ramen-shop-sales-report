@@ -1,0 +1,339 @@
+SALES BY CLASS,Raw Qty,Raw Sales,Voids/Returns Qty,Voids/Returns,Comps Qty,Comps,Gross Sales,Item Disc,Order Disc,Net Totals
+Alcohol,4451,28364.00,154,1698.00,40,313.50,26352.50,795.97,845.80,24710.73
+Extra Items,88,1450.39,2,2.00,1,1.50,1446.89,0.00,3.00,1443.89
+Ramen,10532,157588.00,181,2973.50,51,829.50,153785.00,346.40,6411.02,147027.58
+Unknown Class,7182,39956.78,219,1155.80,68,442.00,38358.98,1380.01,2054.07,34924.90
+Total,22253,227359.17,556,5829.30,160,1586.50,219943.37,2522.38,9313.89,208107.10
+ 
+GROSS PRODUCT SALES,Amount
+Taxed Gross Sales,219943.37
+Untaxed Gross Sales,0.00
+Taxed Service Fee,0.00
+Untaxed Service Fee,0.00
+Shipping and Handling,0.00
+CRV Charges (included to  Sales),0.00
+Total,219943.37
+ 
+DISCOUNTS,Amount
+Item Discounts,2522.38
+Order Discounts,9313.89
+Total,11836.27
+ 
+NET SALES,Amount
+Taxed Net Sales,208107.10
+Untaxed Net Sales,0.00
+Total Sales,208107.10
+ 
+TAXES,Sales/Fees,Total
+Prevailing Tax (8.250%),209137.03,17260.23
+Tax Rounding Variance ,,0.00
+Other Surcharge ,0.00,0.00
+Pass Through Fee Taxes ,0.00,0.00
+Total ,,17260.23
+ 
+LIABILITIES,Payable,Payable Tips,Receivable,Receivable Tips,Total
+House Account,0.00,,0.00,0.00,0.00
+Gift Cards,0.99,,89.31,0.00,-88.32
+Store Credit,0.00,,0.00,0.00,0.00
+Deposits,0.00,0.00,0.00,0.00,0.00
+Pass Through Fees,0.00,,,,0.00
+Total,,,,,-88.32
+ 
+TIPS,Auto Grat.,Standard,Adjustments,Total
+Cash,0.00,71.37,,71.37
+Credit,408.68,31232.43,0.00,31641.11
+Other,0.00,0.00,,0.00
+Custom Payment,0.00,3.00,,3.00
+Liability Tips,,0.00,,0.00
+Total,,,,31715.48
+ 
+ADJUSTMENTS,Amount
+Rounding Deltas,0.00
+ 
+Net To Account For,Amount
+Net To Account For,225279.01
+ 
+PAYMENTS,Qty,Sales,Deposits,House Accounts,Refunds,Tips,Total
+Cash,327.0,7271.64,0.00,0.00,212.17,71.37,7059.47
+Credit,7338.0,203717.96,0.00,0.00,943.80,31641.11,202774.16
+American Express,677,22492.86,0.00,0.00,66.04,3692.27,22426.82
+Discover,323,7929.68,0.00,0.00,0.00,994.59,7929.68
+MasterCard,1568,42716.12,0.00,0.00,162.40,6344.54,42553.72
+Visa,4770,130579.30,0.00,0.00,715.36,20609.71,129863.94
+Trade,1.0,33.56,0.00,0.00,0.00,0.0,33.56
+Other,0,0.00,0.00,0.00,0.00,0.00,0.00
+Custom Payment,499.0,15445.43,0.00,0.00,33.56,3.00,15411.87
+Door Dash,226,5915.43,0.00,0.00,33.56,0.00,5881.87
+Uber Eats,258,8367.38,0.00,0.00,0.00,3.00,8367.38
+Grub Hub,14,341.00,0.00,0.00,0.00,0.00,341.00
+Open Table Omakase,1,821.62,0.00,0.00,0.00,0.00,821.62
+Grand Total,8165,226468.59,0.00,0.00,1189.53,31715.48,225279.06
+ 
+CASH SUMMARY,Amount
+Starting cash,28622.86
+Cash Payments,7130.84
+Pay Ins,0.00
+Pay Outs,0.00
+Safe Drops,0.00
+Total Expected Cash,35682.33
+Expected Cash (from Tills),34749.81
+Other,932.52
+Declared Cash,34628.50
+Variance,-1053.83
+Expected total cash to business,7059.47
+Actual total cash to business,6005.64
+Number of No Sales (Cash Drawer Opened),4
+ 
+CASH OFFICE,Amount
+Declared Safe Drops,0.00
+Actual Safe Drops,0.00
+Variance,0.00
+Safe Count,0.00
+Amount to Deposit,0.00
+Amount to Safe,0.00
+ 
+SERVICE PERFORMANCE,Amount
+Total Transactions,8375.0
+Average Check,24.85
+Total Guests,563.0
+Average Sale Per Guest,369.64
+ 
+LABOR DEPARTMENT,Hours,Wages
+BOH,2883.55,57674.52
+FOH,2796.51,19002.99
+Sazan Ramen,5577.85,69146.50
+ 
+DISCOUNT REASON,Qty,Total
+"
+Shift meal",1,19.00
+.,14,169.13
+29th St Block,3,3.90
+Bbq fam,1,9.50
+Bday D,1,12.00
+Bdsy,1,2.50
+Birthday,1,2.50
+Blake,1,2.00
+Chef,2,35.50
+Chef f,1,16.50
+Chef homie,1,12.60
+Chef ivan,1,14.50
+Chef kris,1,22.00
+Chef kris family,1,46.50
+Chef spesh,1,10.00
+Comp,3,30.50
+Crescent Plaza,1,6.10
+Cust food was given to wrong table,1,5.50
+D,6,104.76
+D friend,3,45.00
+D frienf,1,101.00
+D's fnd,1,41.50
+Ds friend,1,6.50
+Em,23,384.00
+Emp,1,5.50
+Emp m,1,20.00
+Emp meal,5,89.00
+Employee,7,161.40
+Employee Dine-in,117,1722.25
+Employee Meal,6,30.07
+Employee dine in,1,0.00
+Employee/fam,2,34.50
+Err,3,15.20
+F&F,2,53.50
+F&f,8,67.45
+Fam,5,121.50
+Family,1,11.80
+Family & Friends,154,549.75
+Family / Significant,1,0.00
+Family opening,1,16.50
+Ff,23,232.62
+Fr,1,4.00
+Friends n fam,1,27.25
+Friends n family,1,10.50
+G,1,1.50
+Game Day (Beer),85,170.00
+Game Day (Bombs),73,73.00
+Game Day (Cocktails),7,21.00
+Guest,1,2.50
+Guest didnt like foo,1,5.00
+HH,2,12.00
+Happy Hour,465,1382.00
+Happy Hr (WIngs),51,408.00
+Happy Hr (Wings),15,120.00
+Humanity,1,16.50
+Industry homie,1,5.80
+Influencer,2,164.50
+J friend,1,4.50
+Ky,1,16.00
+Love,2,6.51
+Mess up,1,19.50
+Mike and Tuana shift meal,1,19.50
+Military / First Responders,12,36.00
+Out of menu item,1,18.00
+PF,1,1.00
+Plumber comp,1,29.00
+Pork fat,2,2.00
+Pork fat free,1,1.00
+Pork fat free on menu,1,1.00
+Printer test,1,10.00
+Restaurant Industry,32,246.40
+Service,1,1.50
+Shift,5,105.00
+Shift Meal,198,3362.00
+Shift m,1,18.00
+Shift meal,2,37.50
+Sm,1,6.50
+Smooth Operator,15,105.00
+Soooop,1,16.50
+Soup,1,10.00
+Special,1,7.00
+Staff meeting,1,36.50
+Student,196,440.95
+Student discount,1,1.35
+Taiki,1,32.75
+Test,3,19.50
+Tg,1,0.00
+UE driver took wrong order,1,25.00
+Unc,1,39.00
+User error,1,3.00
+Vy,1,42.00
+Yaya,1,0.00
+Zepp,2,7.25
+Zupp,9,60.75
+Zupp discount,1,0.00
+Zupp first time promo,1,9.75
+lo-fi,78,381.50
+Standard,1700,11836.29
+TOTAL,,11836.27
+ 
+"VOIDS, RETURNS AND COMPS REASON",T,Qty,Total
+Bday,C,1,12.00
+Chef,C,1,19.50
+Collin,C,2,21.50
+Comp,C,3,16.00
+Cust sat,C,1,5.00
+D,C,13,145.00
+D ff,C,2,21.00
+Didnt use discount,C,2,20.00
+Dj f&f,C,3,22.50
+D's friend,C,1,21.00
+Em,C,2,20.50
+Employee,C,3,51.00
+Err,C,1,12.00
+Error,C,1,12.00
+"Error, too many spicy bombs",C,1,3.50
+Ff,C,12,112.50
+F&f,C,10,108.00
+F&F,C,9,115.50
+F&f boba,C,1,16.50
+Ff boba,C,1,10.00
+Forgot,C,1,1.00
+G,C,2,2.50
+Guest bartender,C,1,14.50
+"Guest didnt enjoy, wanted refund",C,2,33.00
+Koko,C,10,95.50
+Late,C,1,12.00
+Left without paying,C,4,27.50
+Lofi,C,3,49.50
+Lo fi soup,C,1,16.50
+Media,C,25,211.50
+Milk pr,C,12,85.50
+Mylk,C,3,39.00
+No cream n vy,C,2,16.00
+No pay,C,2,3.00
+Old,C,1,12.00
+Ordered to go,C,1,5.00
+Rambler not ramune,C,1,3.50
+Sake rep,C,1,18.00
+Server put in wrong so had to redo,C,1,14.50
+Soup,C,1,5.00
+Soup ff,C,1,16.50
+Taiki,C,3,24.00
+Taken before empty,C,1,7.50
+Tay,C,1,10.00
+Tay n friends,C,5,67.00
+Wes,C,3,13.00
+Wrong item,C,1,18.50
+86,R,2,15.50
+Cant make,R,1,6.50
+Chaged mind,R,2,19.50
+Customer used wrong card,R,1,10.00
+Dbl,R,1,14.50
+Didnt order,R,1,10.00
+Err,R,2,36.00
+Error,R,24,285.50
+Error double,R,2,31.00
+Kitchen fire error,R,1,16.50
+Never arrived,R,1,10.00
+Not enough,R,1,2.50
+R,R,1,3.00
+Test,R,3,0.03
+3pc,V,1,18.00
+86,V,1,14.50
+Accidentally put 2,V,1,6.00
+Cash,V,1,0.01
+Cash not credit,V,1,2.00
+Cash tip,V,1,0.01
+Changed mind,V,3,25.50
+Changed quantity instead of seat,V,1,14.50
+Changed table #,V,1,6.00
+ChNged mind,V,1,4.50
+Comp,V,1,10.00
+Cust changed mind,V,1,16.50
+Customer cancel,V,3,40.50
+Customer error/paid twice,V,3,45.00
+Customer said wrong one,V,1,14.50
+D,V,12,87.00
+Dbl,V,6,81.01
+D ff,V,19,193.50
+Didnt come out,V,3,34.00
+Double,V,1,17.50
+Duplicate,V,5,41.00
+Employee,V,8,94.01
+Employee drink,V,1,7.50
+Er,V,3,34.00
+Err,V,12,72.50
+Error,V,55,562.52
+Error same ticket,V,4,40.50
+Errror,V,1,18.00
+Fake orde,V,3,29.50
+Ff,V,7,67.50
+F&f,V,2,26.50
+Host,V,12,148.00
+I,V,5,61.50
+Left off,V,2,2.00
+Medi,V,10,76.50
+Media,V,177,1770.60
+MediA,V,11,124.51
+Moving,V,1,11.00
+No inv,V,2,16.00
+No make,V,9,49.50
+No show,V,2,10.50
+Not a dollar,V,1,6.00
+Out,V,3,37.50
+Out of stock,V,1,12.00
+Paid cash,V,1,0.01
+R,V,2,16.00
+Ran out,V,1,10.00
+Re fire,V,1,14.50
+Reinputting cuz they wanted spicy,V,2,5.50
+Re inputting to split properly,V,1,10.00
+Re rung on other ticket,V,1,6.00
+Rr on other ticket,V,1,11.00
+Sake bomb not beer,V,1,6.00
+Switched tab,V,2,2.00
+Taiki wife,V,2,19.00
+Teaching Jack how to take cash,V,1,16.50
+Test,V,71,951.07
+Tipped,V,1,0.01
+V,V,1,10.00
+Void,V,2,28.00
+Wanted classic,V,1,16.50
+Was charged in another ticket,V,1,5.00
+Was charged inanother ticket,V,1,5.00
+Wrong,V,10,192.51
+Wrong item,V,1,14.50
+Wrong payment type,V,1,2.00
+Wrong tab,V,2,33.00
+Wrong table,V,2,12.00
+Wrong ticket,V,3,30.00
+Xtra,V,1,3.00
